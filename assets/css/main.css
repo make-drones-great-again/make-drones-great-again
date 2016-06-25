@@ -2082,7 +2082,7 @@
 			}
             .trump {
                 background: url("images/header.jpg");
-                background-size: cover;
+                background-size: contain;
             }
 
 /* Footer */
